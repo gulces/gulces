@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gulces
 - 👀 I’m interested in fullstack web development!
 - 🌱 I’m currently learning Ruby, HTML, CSS and JS.
-- 💞️ I’m looking to collaborate on UX/UI projects.
 - 📫 You can reach me at gulcesakallioglu@gmail.com
 
 <!---
