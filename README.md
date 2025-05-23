@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gulce</h1>
+<h1 align="center">Hi 👋, I'm Gülce</h1>
 <h3 align="center">A London-based full stack developer</h3>
 
 - 💬 Ask me about **Rails and Yoga 🧘🏼‍♀️**
